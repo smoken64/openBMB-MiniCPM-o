@@ -1,0 +1,1 @@
+# openBMB-MiniCPM-o
